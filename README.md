@@ -1,4 +1,4 @@
-# NIDC Workshop 2025: Code & Conundrums: From Spec to Puzzle, an AI-Assisted Workshop.
+# NIDC Workshop 2025: Code & Conundrums: From Spec to Puzzle, an AI-Assisted Workshop
 
 Sample prompts to develop a modern, web-based Logic Grid Puzzle application developed during the NIDC Workshop 2025. This project aims to transform classic logic grid puzzles into an interactive digital experience where users can deduce relationships between multiple categories from given clues.
 
@@ -21,7 +21,7 @@ This repository contains the prompts to help develop a Logic Grid Puzzle applica
 
 ## Project Structure
 
-```
+```text
 docs/
 ├── constitution-prompt.md          - Development constitution guidelines
 ├── plan-prompt.md                  - Architecture and implementation plan

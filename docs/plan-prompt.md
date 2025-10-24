@@ -1,3 +1,5 @@
+# Plan Prompt
+
 Use a minimal-local architecture: a lightweight local backend process (HTTP API) paired with a simple frontend SPA.
 
 - For the backend, use a small, widely-supported runtime and ecosystem (e-g., Node-js) with a minimal HTTP framework to keep the surface area small
